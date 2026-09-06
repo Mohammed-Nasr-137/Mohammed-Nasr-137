@@ -12,16 +12,6 @@
 </p>
 
 ## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Nasr-137&show_icons=true&count_private=true&theme=dark" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Nasr-137&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Nasr-137&theme=dark" alt="GitHub Streak" />
 
-<img src="https://profile-counter.glitch.me/Mohammed-Nasr-137/count.svg?" alt="visitors count" />
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Nasr-137&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 
