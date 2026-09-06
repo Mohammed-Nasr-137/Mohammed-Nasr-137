@@ -30,14 +30,6 @@
 
   <br/><br/>
 
-  <!-- GitHub Stats Card & Top Languages Card -->
-  <a href="https://github.com/Mohammed-Nasr-137">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Nasr-137&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Mohammed-Nasr-137's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Mohammed-Nasr-137">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Nasr-137&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
-
 </div>
 
 
