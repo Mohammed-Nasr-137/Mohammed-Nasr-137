@@ -1,5 +1,7 @@
 # Hello 👋, I'm Mohammed Nasr
-<h3 align="center">A passionate learner!</h3>
+<h3 align="left">A passionate learner!</h3>
+- Currently exploring AI/ML.
+- Senior student at the Department of Electronics and Electrical Communication at Cairo University.
 
 ## Contact Me
 <p><a href="www.linkedin.com/in/mohammed-nasr-52a645252" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
@@ -20,8 +22,7 @@
 
 ## GitHub Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Nasr-137&theme=dark" alt="GitHub Streak" />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&locale=en" alt="" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&locale=en&layout=compact" alt="" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed-nasr-137&show_icons=true&locale=en" alt="mohammed-nasr-137" /></p>
 
 
 
