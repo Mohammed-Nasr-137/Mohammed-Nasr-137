@@ -24,13 +24,21 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Nasr-137&theme=dark" alt="GitHub Streak" />
 
 <div align="center">
-  <img src="https://shields.io" alt="Views" />
-  
-  <br /><br />
-  
-  <img src="https://vercel.app" alt="Stats" />
-</div>
 
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Mohammed-Nasr-137&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Mohammed-Nasr-137 Profile Views" />
+
+  <br/><br/>
+
+  <!-- GitHub Stats Card & Top Languages Card -->
+  <a href="https://github.com/Mohammed-Nasr-137">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Nasr-137&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Mohammed-Nasr-137's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Mohammed-Nasr-137">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Nasr-137&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
+
+</div>
 
 
 
