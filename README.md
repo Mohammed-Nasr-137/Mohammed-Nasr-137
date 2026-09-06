@@ -1,5 +1,11 @@
 # Hello 👋, I'm Mohammed Nasr
 <h3 align="left">A passionate learner!</h3>
+
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Mohammed-Nasr-137&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Mohammed-Nasr-137 Profile Views" />
+
+  <br/><br/>
+
 - Currently exploring AI/ML.
 - Senior student at the Department of Electronics and Electrical Communication at Cairo University.
 
@@ -25,10 +31,7 @@
 
 <div align="center">
 
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Mohammed-Nasr-137&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Mohammed-Nasr-137 Profile Views" />
 
-  <br/><br/>
 
 </div>
 
