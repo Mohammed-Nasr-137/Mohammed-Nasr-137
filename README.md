@@ -4,7 +4,7 @@
 ## Contact Me
 <p><a href="www.linkedin.com/in/mohammed-nasr-52a645252" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
 
-- 📫 **nmohmmed285@gmail.com**
+📫 **nmohmmed285@gmail.com**
 
 ## Skills
 
