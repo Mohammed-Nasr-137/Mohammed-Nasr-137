@@ -22,11 +22,15 @@
 
 ## GitHub Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Nasr-137&theme=dark" alt="GitHub Streak" />
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</p>
+
+<!-- PROFILE VIEWS COUNTER -->
 <p align="center">
   <img src="https://komarev.com" alt="Profile Views" />
+</p>
+
+<!-- GITHUB STATS CARD -->
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" />
 </p>
 
 
