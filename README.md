@@ -4,8 +4,6 @@
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=Mohammed-Nasr-137&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Mohammed-Nasr-137 Profile Views" />
 
-  <br/><br/>
-
 - Currently exploring AI/ML.
 - Senior student at the Department of Electronics and Electrical Communication at Cairo University.
 
@@ -30,7 +28,17 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Nasr-137&theme=dark" alt="GitHub Streak" />
 
 <div align="center">
+<!-- GitHub Streak Stats -->
+  <a href="https://github.com/Mohammed-Nasr-137">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=Mohammed-Nasr-137&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  </a>
 
+  <br/><br/>
+
+  <!-- GitHub Activity Graph -->
+  <a href="https://github.com/Mohammed-Nasr-137">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Nasr-137&theme=tokyo-night&area=true" alt="Activity Graph" />
+  </a>
 
 
 </div>
