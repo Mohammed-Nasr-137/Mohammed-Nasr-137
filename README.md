@@ -25,7 +25,7 @@
 </p>
 
 ## GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Nasr-137&theme=dark" alt="GitHub Streak" />
+
 
 <div align="center">
 <!-- GitHub Streak Stats -->
@@ -35,10 +35,7 @@
 
   <br/><br/>
 
-  <!-- GitHub Activity Graph -->
-  <a href="https://github.com/Mohammed-Nasr-137">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Nasr-137&theme=tokyo-night&area=true" alt="Activity Graph" />
-  </a>
+  
 
 
 </div>
